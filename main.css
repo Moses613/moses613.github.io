@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color:cyan;
+}
+
+header {
+    background-color: antiquewhite;
+    border: 3px solid black;
+}
+
+h2 {
+    width: 65%;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: white;
+}
+
+p {
+    background-color: antiquewhite;
+}
+
+footer {
+    border: 3px dotted blue;
+}
+
+footer p {
+    margin: auto;
+}
