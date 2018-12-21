@@ -21,10 +21,18 @@ p {
     background-color: antiquewhite;
 }
 
-footer {
+footer p {
     border: 3px dotted blue;
+    margin: auto;
+    background-color: antiquewhite; 
 }
 
-footer p {
-    margin: auto;
+img {
+    border: 5px solid green;
+    border-radius: 50%;
+}
+
+img:hover {
+    border: none;
+    border-radius: 0%;
 }
