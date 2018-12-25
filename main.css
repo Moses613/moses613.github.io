@@ -21,18 +21,24 @@ p {
     background-color: antiquewhite;
 }
 
+img {
+    height: 1em;
+}
+
 footer p {
     border: 3px dotted blue;
     margin: auto;
     background-color: antiquewhite; 
 }
 
-img {
+#logo {
     border: 5px solid green;
     border-radius: 50%;
+    height: auto;
 }
 
-img:hover {
+#logo:hover {
+    height: auto;
     border: none;
     border-radius: 0%;
 }
