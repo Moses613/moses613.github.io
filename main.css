@@ -21,6 +21,19 @@ p {
     background-color: antiquewhite;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: overline underline; 
+}
+
+a:active {
+    position: relative;
+    top: 2px;
+}
+
 img {
     height: 1em;
 }
